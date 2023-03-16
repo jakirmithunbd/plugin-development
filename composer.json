@@ -1,0 +1,13 @@
+{
+    "name": "jakir/alecaddd-plugin",
+    "authors": [
+        {
+            "name": "Md Jakirul Islam",
+            "email": "jakirmithunbd@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
